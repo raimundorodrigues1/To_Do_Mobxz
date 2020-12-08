@@ -9,7 +9,7 @@
 
 ## 📋 Sobre
 
-O App **Tarefas** foi criado dentro do **Curso de Flutter** com o intuito de colocarmos em prática todo o conteúdo estudado no módulo do curso.
+O App **Tarefas** otimiza o modo como você organiza as suas tarefas diárias.
 
 ---
 ## 🚀 Tecnologias utilizadas 
