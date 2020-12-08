@@ -25,10 +25,10 @@ O App foi desenvolvido utilizando as seguintes tecnologias:
 
 ``` bash
 # Clonar repositório
-$ git clone https://github.com/raimundorodrigues1/Agenda-de-Contatos.git
+$ git clone https://github.com/raimundorodrigues1/To_Do_Mobxz.git
 
 # Entrar no diretório
-$ cd Agenda-de-Contatos 
+$ cd To_Do_Mobxz 
 
 # Instalar as dependências
 $ yarn install
